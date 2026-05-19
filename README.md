@@ -1,99 +1,65 @@
-🚀 **Turning Coffee ☕ into Code 💻 and Ideas 🧠 into Intelligent Systems 🤖**
+**Turning Coffee into Code and Ideas into Intelligent Systems** 🚀
 
-Hey there! 👋 I’m **Aryan Chhetri**, a Computer Science Engineer specializing in **Artificial Intelligence & Machine Learning** from **UPES** 🎓. I’m passionate about building smart systems, solving real-world problems with AI, and constantly exploring how technology can make life smarter, faster, and more impactful 🌍✨
+Hello, I am Aryan Chhetri, a Computer Science Engineer specialising in Artificial Intelligence and Machine Learning from UPES. I am passionate about creating intelligent systems and using AI to solve meaningful real-world problems.  
 
-From training machine learning models 📈 to building backend APIs ⚡, I enjoy the entire journey of transforming raw data into meaningful insights and scalable applications. My curiosity for AI started with a simple question:
-💭 *“How can machines learn patterns like humans do?”*
-…and since then, there has been no turning back 🚀
+My journey into artificial intelligence started with one simple question: “How can machines learn patterns the way humans do?” That curiosity never faded. Instead, it led me to dive deeper into the field. Today, I truly enjoy the full process - training machine learning models, building backend APIs, and turning raw data into useful insights and scalable applications. 💻
 
----
+### What I Work With 🧠
 
-## 🧠 What I Work With
+**Languages and Core Skills**  
+Python, SQL, and Java (basics).  
 
-### 👨‍💻 Languages & Core Skills
+**Machine Learning and AI**  
+- Scikit-learn  
+- Supervised and unsupervised learning  
+- Model evaluation and feature engineering  
+- Data cleaning and exploratory data analysis (EDA)  
 
-🐍 Python | 🗄️ SQL | ☕ Java (Basics)
+**Deep Learning**  
+- TensorFlow and PyTorch  
+- Neural networks  
+- Generative AI (enthusiast)  
 
-### 🤖 Machine Learning & AI
+**Data and Visualisation**  
+Pandas, NumPy, Matplotlib, and Seaborn. 📊
 
-📊 Scikit-learn
-🧠 Supervised & Unsupervised Learning
-📉 Model Evaluation & Feature Engineering
-🔍 Data Cleaning & Exploratory Data Analysis (EDA)
+**Backend Development**  
+FastAPI and RESTful APIs. I am actively working to build stronger, more scalable backend systems. ⚡
 
-### 🔥 Deep Learning
+### Projects That Keep Me Engaged 🛠️
 
-⚡ TensorFlow
-🧠 PyTorch
-🔗 Neural Networks
-🤖 Generative AI Enthusiast
+**Heart Disease Prediction System** ❤️  
+I built machine learning models to predict heart-related risks using real medical datasets, aiming to deliver practical and reliable insights.
 
-### 📊 Data & Visualization
+**Brain Tumor Prediction** 🧬  
+I explored deep learning techniques to classify and predict brain tumour patterns, focusing on improving accuracy and performance.
 
-🐼 Pandas | 🔢 NumPy
-📈 Matplotlib | 🎨 Seaborn
+### Certifications and Continuous Learning 📚
 
-### ⚙️ Backend Development
+- DeepLearning.AI Machine Learning Specialization by Andrew Ng  
+- ChatGPT Prompt Engineering for Developers  
 
-🚀 FastAPI
-🔗 RESTful APIs
-🛠️ Scalable Backend Learning Journey
+I am always learning and staying updated with new advancements in AI, backend development, and modern tools.
 
----
+### Current Focus 🎯
 
-## 🛠️ Projects That Keep Me Awake at Night 🌙
+Right now, I am:  
+- Sharpening my backend skills with FastAPI  
+- Exploring Generative AI and LLM applications  
+- Strengthening my understanding of deep learning  
+- Building projects that combine AI with real-world impact  
 
-❤️ **Heart Disease Prediction System**
-Building ML models to assist in predicting heart-related risks using medical datasets and data-driven insights.
+I truly believe the best way to learn AI is not just by watching tutorials, but by creating solutions that solve actual problems. 💡
 
-🧬 **Brain Tumor Prediction**
-Exploring deep learning concepts to classify and predict brain tumor patterns with improved accuracy.
+### A Few Things About Me 🌟
 
-🌐 **Salon Website Development**
-Worked collaboratively during internship to develop a responsive salon website using Java, HTML & CSS, focusing on better user experience and client engagement.
+- A good cup of coffee always makes debugging easier ☕  
+- I tend to be most productive at night 🌙  
+- I love simplifying complex AI concepts so anyone can understand them  
+- There is nothing better than the moment a model finally delivers strong accuracy 🚀  
 
----
+I am always open to interesting collaborations, internships, full-time roles, AI/ML projects, backend development opportunities, and thoughtful conversations about technology and innovation.  
 
-## 📚 Certifications & Continuous Learning
+If you are passionate about AI and enjoy building things that matter, I would love to connect. 😊  
 
-🏆 **DeepLearning.AI Machine Learning Specialization** — Andrew Ng
-🤖 **ChatGPT Prompt Engineering for Developers**
-📖 Always learning something new in AI, Backend Engineering, and Modern Development Tools.
-
----
-
-## 🎯 Current Mission
-
-Right now, I’m:
-
-* ⚡ Improving my backend development skills with FastAPI
-* 🤖 Exploring Generative AI & LLM applications
-* 🧠 Strengthening Deep Learning concepts
-* 🚀 Building projects that combine AI + real-world usability
-
-I strongly believe that:
-
-> 💡 *“The best way to learn AI is not just by watching tutorials, but by building things that actually solve problems.”*
-
----
-
-## 🌟 Fun Facts About Me
-
-☕ Debugging feels easier after coffee
-🌙 Most productive at night
-🔍 I enjoy breaking complex AI concepts into simple ideas
-🚀 I get excited every time a model finally starts giving good accuracy
-😅 Sometimes the bug fixes itself when I stare at the screen long enough
-
----
-
-## 🤝 Let’s Connect & Build Something Awesome
-
-I’m always open to:
-✨ Collaborations
-💼 Internships & Full-time Opportunities
-🤖 AI/ML Projects
-⚙️ Backend & Software Development
-🚀 Innovative Tech Discussions
-
-📫 *If you love AI, building cool stuff, or discussing futuristic tech ideas — we’ll probably get along really well.* 😄
+Feel free to reach out!
